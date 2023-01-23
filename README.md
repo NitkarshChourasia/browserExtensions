@@ -13,3 +13,7 @@
 - For two of the most popular browsers in the world.
     1. Chrome 
     2. Firefox
+
+## OpenSource.
+- Open to good improvement codes by the community.
+- Pull requests are welcomed.
