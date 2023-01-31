@@ -1,0 +1,12 @@
+{
+ "manifest_version": 2,
+ "name": "instaUnfollow",
+ "description": "This extension will unfollow all instagram accounts",
+ "version": "1.0",
+"content_scripts": [
+ {
+ "matches": ["https://*.instagram.com/*"],
+ "js": ["unfollow.js"]
+ }
+ ]
+}
